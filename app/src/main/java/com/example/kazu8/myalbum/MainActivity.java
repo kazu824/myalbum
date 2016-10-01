@@ -38,10 +38,12 @@ public class MainActivity extends AppCompatActivity {
                 }
                 if(n == 2){
                     pagerTitleStrip.setTextColor(9);
+
                 }
             }
         });
 
 
+        //完成！！
     }
 }
